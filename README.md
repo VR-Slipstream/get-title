@@ -1,5 +1,5 @@
 Requirements:
-pip install requests
+  pip install requests
 
 Usage:
-python3 task_regex.py -url <http/https>://domain.tld
+  python3 task_regex.py -url <http/https>://domain.tld
